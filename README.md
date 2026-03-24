@@ -1,10 +1,10 @@
 # Neural Autoregressive Flows for Markov Boundary Learning (FANS)
 
-This is the implementation for our paper: [Neural Autoregressive Flows for Markov Boundary Learning](https://arxiv.org/pdf/2407.04992), accepted at IEEE ICDM 2025.
+This is the implementation for our paper: [Neural Autoregressive Flows for Markov Boundary Learning](https://arxiv.org/pdf/2603.20791), accepted at IEEE ICDM 2025.
 
 <p align="center" markdown="1">
     <img src="https://img.shields.io/badge/Python-3.12-green.svg" alt="Python Version" height="18">
-    <a href="https://arxiv.org/pdf/2407.04992"><img src="https://img.shields.io/badge/arXiv-2407.07973-b31b1b.svg" alt="arXiv" height="18"></a>
+    <a href="https://arxiv.org/pdf/2407.04992"><img src="https://img.shields.io/badge/arXiv-2603.20791-b31b1b.svg" alt="arXiv" height="18"></a>
 </p>
 
 <p align="center">
